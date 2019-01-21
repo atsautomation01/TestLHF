@@ -2,9 +2,9 @@
 Library           Selenium2Library    #Test teardown    Close Browser
 
 *** Variables ***
-${Username}       aware\\kritsanaluk.p
-${Password}       Pong4Chin@1
-${URL}            https://ex2.aware.co.th/owa/
+${Username}       xxxxxx
+${Password}       xxxxxxx
+${URL}            xxxxxxxxxxxxx
 ${BROWSER}        Chrome
 
 *** Testcases ***
